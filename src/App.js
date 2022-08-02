@@ -3,6 +3,7 @@ import NavbarComponent from "./navbarComponent";
 import "bootstrap/dist/css/bootstrap.min.css"
 import HomeComponent from "./home";
 import CarouselComponent from "./carouselComponent";
+import FooterCOmponent from "./footerComponent";
 
 
 
@@ -12,6 +13,7 @@ function App() {
       <NavbarComponent/>
       <CarouselComponent/>
       <HomeComponent/>
+      <FooterCOmponent/>
 
 
     </div>
